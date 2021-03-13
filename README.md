@@ -1,5 +1,5 @@
 # X-Viseo-Player-
-g
+
 in this video player showing video folder by folder like MX Player
 
 
